@@ -2,28 +2,11 @@
 > A working list of resources for digital technologists.
 
 ## Guidelines
-* [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/): Offers everything you need to design beautiful, engaging iOS apps.
 * [Google Material Design](https://material.google.com/): A close look at the design, components & resources for Google's brand.
+* [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/): Offers everything you need to design beautiful, engaging iOS apps.
 * [Laws of UX](https://lawsofux.com/): A collection of the maxims and principles that designers can consider when building user interfaces.
 * [Ultimate Guide](https://www.moveoapps.com/ultimate-guide-to-mobile-app-design-principles): The ultimate guide to mobile app design principles that make your app shine.
 * [GoodUI](http://www.goodui.org/): 5 Ways You Can Get A Better UI.
-
-## Design Tools
-* [inVision Studio](https://www.invisionapp.com/studio): Rapid prototyping, animation, built-in design systems, and collaboration.
-* [Sketch](http://sketchapp.com): A lightweight program for digital design for Mac.
-* [Figma](http://figma.com): The collaborative interface design tool.
-* [Adobe XD](https://www.adobe.com/products/experience-design.html): Prototyping & wireframing Tool.
-* [Canva](http://canva.com): Amazingly simple graphic design software.
-* [Framer X](https://framer.com/): Interaction Design and UX design software.
-
-## Prototype Tools
-* [inVision](https://www.invisionapp.com/): The world's leading prototyping, collaboration & workflow platform.
-* [Zeplin](https://zeplin.io/): A great collaboration tool between designers and developers.
-* [Avocode](https://avocode.com/): A workspace open to all designers and developers.
-* [Justinmind](http://justinmind.com): Prototype faster, communicate better, for web and mobile apps.
-* [Marvel App](https://marvelapp.com/): Free mobile & web prototyping for designers.
-* [Atomic.io](https://atomic.io/): Free in Browser interactive design Tool.
-* [Flinto](https://www.flinto.com/):  App to create interactive and animated prototypes of designs.
 
 ## User Journeys
 * [The Role Of Storyboarding In UX Design](https://www.smashingmagazine.com/2017/10/storyboarding-ux-design/): Focus on storyboards as a means to explore solutions to UX issues, as well as to communicate these issues and solutions to others.
@@ -120,6 +103,22 @@
 * [Timing](https://timingapp.com/): Automatic time and productivity tracking for Mac.
 * [Taskade](https://taskade.com/): Collaborative task lists and outlines for teams.
 
+## Design Tools
+* [inVision Studio](https://www.invisionapp.com/studio): Rapid prototyping, animation, built-in design systems, and collaboration.
+* [Sketch](http://sketchapp.com): A lightweight program for digital design for Mac.
+* [Figma](http://figma.com): The collaborative interface design tool.
+* [Adobe XD](https://www.adobe.com/products/experience-design.html): Prototyping & wireframing Tool.
+* [Canva](http://canva.com): Amazingly simple graphic design software.
+* [Framer X](https://framer.com/): Interaction Design and UX design software.
+
+## Prototype Tools
+* [inVision](https://www.invisionapp.com/): The world's leading prototyping, collaboration & workflow platform.
+* [Zeplin](https://zeplin.io/): A great collaboration tool between designers and developers.
+* [Avocode](https://avocode.com/): A workspace open to all designers and developers.
+* [Justinmind](http://justinmind.com): Prototype faster, communicate better, for web and mobile apps.
+* [Marvel App](https://marvelapp.com/): Free mobile & web prototyping for designers.
+* [Atomic.io](https://atomic.io/): Free in Browser interactive design Tool.
+* [Flinto](https://www.flinto.com/):  App to create interactive and animated prototypes of designs.
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
