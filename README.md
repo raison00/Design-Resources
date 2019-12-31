@@ -18,8 +18,10 @@
 * [A Customer Journey Map of First Time User Experience](https://www.productplan.com/customer-journey-map-first-time-user-experience/): A customer journey map is a graphic or narrative representation of the customer’s relationship with a company, product or service.
 * [How Journey Maps Can Help Build Better Products](https://www.productplan.com/journey-maps-for-product-managers/): Ways journey maps can add invaluable new insights to any product manager’s understanding of their customers, product, and organization. 
 
-## Illustration
+## Illustration and UX Design Branding
 * [Brand Illustration Systems: Drawing A Strong Visual Identity](https://www.smashingmagazine.com/2019/12/brand-illustration-systems-visual-identity/): Brand illustrations are an adaptable and effective way to build a company’s visual brand.
+* [LOW-FIDELITY VS. HIGH-FIDELITY](https://steadfastcreative.com/low-fidelity-vs-high-fidelity-wireframes/): Why high-fidelity is needed and more efficient
+* [The Difference between Low-Fidelity and High-Fidelity Prototypes and When to Use Each](https://theblog.adobe.com/prototyping-difference-low-fidelity-high-fidelity-prototypes-use/): What is “prototype fidelity” and what is the difference between a low-fidelity prototype and a high-fidelity prototype? 
 
 ## Colors
 * [Brandcolors](https://brandcolors.net/): Official colors for the world's biggest brands.
