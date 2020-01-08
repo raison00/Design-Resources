@@ -9,6 +9,7 @@
 * [GoodUI](http://www.goodui.org/): 5 Ways You Can Get A Better UI.
 
 ## User Journeys
+* [Guide to the Kano Model](https://foldingburritos.com/kano-model/): Tool to prioritize product roadmap with the right features.
 * [The Role Of Storyboarding In UX Design](https://www.smashingmagazine.com/2017/10/storyboarding-ux-design/): Focus on storyboards as a means to explore solutions to UX issues, as well as to communicate these issues and solutions to others.
 * [Storyboarding in the Software Design Process](https://uxmag.com/articles/storyboarding-in-the-software-design-process): Smoothing the Transition from Analog/Physical to Digital
 * [Using Story Principles To Anticipate What Your User Expects](https://www.smashingmagazine.com/2019/10/users-expectations-story-principles/): We can define a story as the process of solving a problem. 
