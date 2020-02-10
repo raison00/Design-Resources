@@ -105,7 +105,7 @@ Design, User Experience, Technology.
 
 
 ## Prototype Tools
-*[Gallery](https://material.io/resources/gallery/): Gallery is a collaborative tool for uploading design work, getting feedback, and tracking revisions.
+* [Gallery](https://material.io/resources/gallery/): Gallery is a collaborative tool for uploading design work, getting feedback, and tracking revisions.
 * [Adobe XD](https://www.adobe.com/products/experience-design.html): Prototyping & wireframing Tool.
 * [inVision](https://www.invisionapp.com/): Prototyping, collaboration & workflow platform.
 * [Zeplin](https://zeplin.io/): Collaboration tool between designers and developers.
