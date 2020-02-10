@@ -26,7 +26,7 @@ Design, User Experience, Technology.
 * [How Journey Maps Can Help Build Better Products](https://www.productplan.com/journey-maps-for-product-managers/): Ways journey maps can add invaluable new insights to any product manager’s understanding of their customers, product, and organization. 
 
 ## Onboarding
-*[Material Design Onboarding](https://material.io/design/communication/onboarding.html): Virtual unboxing experience that helps users get started with an app
+* [Material Design Onboarding](https://material.io/design/communication/onboarding.html): Virtual unboxing experience that helps users get started with an app
 
 ## Colors
 * [Gradients.io](http://www.gradients.io/): Curated gradients for designers & developers.
@@ -94,7 +94,7 @@ Design, User Experience, Technology.
 
 
 ## Design Tools
-*[Gallery](https://material.io/resources/gallery/): Gallery is a collaborative tool for uploading design work, getting feedback, and tracking revisions 
+* [Gallery](https://material.io/resources/gallery/): Gallery is a collaborative tool for uploading design work, getting feedback, and tracking revisions 
 * [XD to Flutter](https://xd.adobelanding.com/xd-to-flutter/): XD to Flutter is an open source plugin that automatically generates Dart code based on designs in Adobe XD for creating Flutter apps.
 * [Adobe XD](https://www.adobe.com/products/experience-design.html): Prototyping & wireframing Tool.
 * [Framer X](https://framer.com/): Interaction Design and UX design software.
