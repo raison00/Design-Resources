@@ -1,4 +1,4 @@
-# Design Technology & UX Engineering
+# Design Technology 
 >Visual Design, Product Design, User Interface Design, User Experience Design, Interactive Design, Technology.
 
 > A working list of resources for creative digital technologists. 
