@@ -8,9 +8,9 @@
 * [Dart](https://dart.dev/): Dart paints your UI... and more!
 * [DevTools](https://flutter.dev/docs/development/tools/devtools/overview):DevTools is a suite of performance and debugging tools for Dart and Flutter.
 * [Flutter Inspector](https://flutter.dev/docs/development/tools/devtools/inspector): The inspector helps you visualize and explore Flutter widget trees, visualize and troubleshoot layout issues.
-* [Flutter Gallery](https://flutter.github.io/samples/#):A curated list of Flutter samples and apps
-* [Flutter Showcase](https://flutter.dev/showcase):Professional Flutter apps in the wild
-* [Flutter Cookbook](https://flutter.dev/docs/cookbook):
+* [Flutter Gallery](https://flutter.github.io/samples/#): A curated list of Flutter samples and apps
+* [Flutter Showcase](https://flutter.dev/showcase): Professional Flutter apps in the wild
+* [Flutter Cookbook](https://flutter.dev/docs/cookbook): Standard Cookbook
 
 
 ## Guidelines
@@ -19,6 +19,7 @@
 * [Laws of UX](https://lawsofux.com/): A collection of the maxims and principles that designers can consider when building user interfaces.
 * [Ultimate Guide](https://www.moveoapps.com/ultimate-guide-to-mobile-app-design-principles): The ultimate guide to mobile app design principles that make your app shine.
 * [GoodUI](http://www.goodui.org/): 5 Ways You Can Get A Better UI.
+
 
 ## Illustration and UX Design Branding
 * [Brand Illustration Systems: Drawing A Strong Visual Identity](https://www.smashingmagazine.com/2019/12/brand-illustration-systems-visual-identity/): Brand illustrations are an adaptable and effective way to build a company’s visual brand.
@@ -58,7 +59,7 @@
 * [Colorzilla](http://colorzilla.com): Eyedropper, color picker, gradient generator.
 
 ## Typography
-* [Google Web Fonts](http://fonts.google.com): intuitive and robust directory of open source web fonts.
+* [Google Web Fonts](http://fonts.google.com): Intuitive and robust directory of open source web fonts.
 * [Fontpair](http://fontpair.co): Google Font combinations.
 * [Type Anything](https://typeanything.io/): Create great font combinations.
 * [Type Scale](http://type-scale.com/): Preview and choose the right type scale for your project.
@@ -129,6 +130,14 @@
 * [Atomic.io](https://atomic.io/): Free in Browser interactive design Tool.
 * [Flinto](https://www.flinto.com/):  App to create interactive and animated prototypes of designs.
 
+
+## Books
+* [Web design playground](https://www.manning.com/books/web-design-playground/): A step by step guide from writing your first line of HTML to creating interesting, attractive web pages.
+* [Don't make me think](https://www.amazon.com/Dont-Make-Me-Think-Usability/)
+* [The design of everyday things](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123)
+* [100 things every designer needs to know about people](https://www.amazon.com/Things-Designer-People-Voices-Matter/dp/0321767535/ref=sr_1_1?s=books&ie=UTF8&qid=1419267906&sr=1-1&keywords=100+Things+Every+Designer+Needs+to+Know)
+
+
 ## Productivity
 * [Pomodoro](http://tomato-timer.com): A time management technique.
 * [Toggl](http://toggl.com): Time tracker to improve workplace productivity.
@@ -138,14 +147,6 @@
 * [Paste](http://pasteapp.me/): A smart clipboard history manager for Mac.
 * [Timing](https://timingapp.com/): Automatic time and productivity tracking for Mac.
 * [Taskade](https://taskade.com/): Collaborative task lists and outlines for teams.
-* [Sip](http://sipapp.io/): A color picker for Mac.
-
-## Books
-* [Web design playground](https://www.manning.com/books/web-design-playground/): A step by step guide from writing your first line of HTML to creating interesting, attractive web pages.
-* [Don't make me think](https://www.amazon.com/Dont-Make-Me-Think-Usability/)
-* [The design of everyday things](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123)
-* [100 things every designer needs to know about people](https://www.amazon.com/Things-Designer-People-Voices-Matter/dp/0321767535/ref=sr_1_1?s=books&ie=UTF8&qid=1419267906&sr=1-1&keywords=100+Things+Every+Designer+Needs+to+Know)
-
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
