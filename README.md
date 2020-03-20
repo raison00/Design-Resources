@@ -1,6 +1,6 @@
 # Design Technology
 > A working list of resources for creative digital technologists. 
-Design, User Experience, Technology.
+Visual Design, Product Design, User Interface Design, User Experience Design, Interactive Design, Technology.
 
 ## Guidelines
 * [Google Material Design](https://material.google.com/): A close look at the design, components & resources for Google's brand.
@@ -13,6 +13,14 @@ Design, User Experience, Technology.
 * [Brand Illustration Systems: Drawing A Strong Visual Identity](https://www.smashingmagazine.com/2019/12/brand-illustration-systems-visual-identity/): Brand illustrations are an adaptable and effective way to build a company’s visual brand.
 * [LOW-FIDELITY VS. HIGH-FIDELITY](https://steadfastcreative.com/low-fidelity-vs-high-fidelity-wireframes/): Why high-fidelity is needed and more efficient
 * [The Difference between Low-Fidelity and High-Fidelity Prototypes and When to Use Each](https://theblog.adobe.com/prototyping-difference-low-fidelity-high-fidelity-prototypes-use/): What is “prototype fidelity” and what is the difference between a low-fidelity prototype and a high-fidelity prototype? 
+* [The Role of Branding in UI Design](https://blog.tubikstudio.com/faq-design-role-of-branding-in-ui-design/):Branding elements in UI design.
+* [Visual Hierarchy: Effective UI Content Organization](https://blog.tubikstudio.com/visual-hierarchy-effective-ui-content-organization/):UI content organization: size, contrast, proximity, negative space and more to structure UI elements effectively.
+* [Principle of Similarity](https://blog.tubikstudio.com/gestalt-theory-for-efficient-ux-principle-of-similarity/):Similarity principle of effective content grouping in UI.
+* [ Principle of Proximity](https://blog.tubikstudio.com/gestalt-theory-for-ux-design-principle-of-proximity/):Considering cognitive abilities and mechanisms in creating a user-friendly product.
+* [Dropbox’s 2014 Carousel Design Deconstructed](https://www.smashingmagazine.com/2014/08/dropbox-carousel-design-deconstructed-part-1/): MVP of the 2014 Carousel UX process
+* [10 Application-Design Mistakes](https://www.nngroup.com/articles/top-10-application-design-mistakes/):Application usability is enhanced when the UI guides and supports users through the workflow. Designing complex applications is a challenging undertaking. Building applications that have both the depth to support complicated tasks and the intuitiveness to make it clear how to get that work done is a tremendous challenge...
+* [UX for Photo Upload](https://medium.com/tripaneer-techblog/a-photo-upload-tool-invent-the-ux-patterns-dont-follow-them-fd0f51188f62): A multi-drop zone
+
 
 ## User Journeys
 * [User Journey Mapping Examples: How UX Pros Do It](https://cxl.com/blog/customer-journey-mapping-examples/): There’s some vagueness and obscurity around how to actually create user journey maps.
@@ -29,19 +37,18 @@ Design, User Experience, Technology.
 * [Material Design Onboarding](https://material.io/design/communication/onboarding.html): Virtual unboxing experience that helps users get started with an app
 
 ## Colors
-* [Gradients.io](http://www.gradients.io/): Curated gradients for designers & developers.
-* [UI Gradients](http://uigradients.com/): Beautiful color gradients.
-* [Brandcolors](https://brandcolors.net/): Official colors for the world's biggest brands.
-* [Adobe Color CC](https://color.adobe.com/): Create color schemes with the color wheel or browse thousands of color combinations from the Kuler community.
-* [Paletton](http://paletton.com): A designer tool for creating color combinations that work together well.
-* [Coolors](https://coolors.co/): Generate infinite color palettes for your designs.
+* [Gradients.io](http://www.gradients.io/): Curated gradients.
+* [UI Gradients](http://uigradients.com/): Color gradients.
+* [Brandcolors](https://brandcolors.net/): Brand colors.
+* [Adobe Color CC](https://color.adobe.com/): Create color schemes or browse thousands of color combinations: Kuler community tool.
+* [Paletton](http://paletton.com):Tool for creating color combinations.
+* [Coolors](https://coolors.co/): Generate color palettes.
 * [Lol Colors](http://www.lolcolors.com/): Curated color palette inspiration.
-* [Colordot](https://color.hailpixel.com/): A color picker for humans.
 * [Colorzilla](http://colorzilla.com): Eyedropper, color picker, gradient generator.
 
 ## Typography
-* [Google Web Fonts](http://fonts.google.com): Offering an intuitive and robust directory of open source designer web fonts.
-* [Fontpair](http://fontpair.co): Beautiful Google Font combinations and pairs.
+* [Google Web Fonts](http://fonts.google.com): intuitive and robust directory of open source web fonts.
+* [Fontpair](http://fontpair.co): Google Font combinations.
 * [Type Anything](https://typeanything.io/): Create great font combinations.
 * [Type Scale](http://type-scale.com/): Preview and choose the right type scale for your project.
 * [WhatTheFont](https://www.myfonts.com/WhatTheFont/): Seen a font in an image and want to know what it is? WhatTheFont will find the closest match.
@@ -49,7 +56,7 @@ Design, User Experience, Technology.
 * [Typ.io](http://typ.io/): Typography inspiration.
 
 ## Icons
-* [Material Icons](https://material.io/icons/): Free to use material design icons from Google.
+* [Material Icons](https://material.io/icons/): Free to use Material Design icons from Google.
 * [Flat Icon](http://flaticon.com): Thousands of free flat icons.
 * [Font Awesome](http://fontawesome.io): The iconic font and CSS toolkit.
 * [Icon Finder](http://iconfinder.com): 1 million free and premium icons.
@@ -66,7 +73,7 @@ Design, User Experience, Technology.
 
 
 ## Resources and Inspiration
-* [Google design](https://www.youtube.com/channel/UClKO7be7O9cUGL94PHnAeOA): Youtube channel featuring videos for designers about Google design.
+* [Google Design](https://www.youtube.com/channel/UClKO7be7O9cUGL94PHnAeOA): Youtube channel featuring videos for designers about Google design.
 * [Smashing Magazine](http://smashingmagazine.com): For professional web designers & developers.
 * [Medium](https://medium.com/tag/web-design): A community of readers and writers offering unique perspectives on ideas large and small.
 * [Creative Bloq](http://www.creativebloq.com/): Art & design inspiration.
@@ -77,12 +84,7 @@ Design, User Experience, Technology.
 * [Morning Reader](https://morningreader.com): Breaking tech news.
 * [Awwwards](http://awwwards.com): Web Design trends.
 * [One Page Love](http://onepagelove.com):  Design gallery showcasing Single Page websites.
-* [Inspired UI](http://inspired-ui.com/): Mobile apps design patterns.
-* [Behance](http://behance.net): Showcase & discover creative work.
-* [Dribbble](http://dribbble.com): Show and tell for designers.
-* [Product Hunt](http://producthunt.com): The place to discover your next favorite thing.
 * [UI Movement](https://uimovement.com):  UI design inspiration, every day.
-* [Pttrns](http://pttrns.com/): The finest collection of design patterns, resources and inspiration.
 * [Sitepoint](https://www.sitepoint.com/design-ux/): A hub for web developers & designers to share their passion for building incredible internet things
 
 ## Tutorials
