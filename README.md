@@ -1,6 +1,7 @@
 # Design Technology
 > A working list of resources for creative digital technologists. 
-Visual Design, Product Design, User Interface Design, User Experience Design, Interactive Design, Technology.
+
+>Visual Design, Product Design, User Interface Design, User Experience Design, Interactive Design, Technology.
 
 ## Guidelines
 * [Google Material Design](https://material.google.com/): A close look at the design, components & resources for Google's brand.
