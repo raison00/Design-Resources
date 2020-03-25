@@ -49,6 +49,7 @@ A working list of resources for creative digital technologists.
 * [Material Design Onboarding](https://material.io/design/communication/onboarding.html): Virtual unboxing experience that helps users get started with an app
 
 ## Colors
+* [WebAIM](https://webaim.org/resources/contrastchecker/):WCAG Contrast and Color Requirements
 * [Gradients.io](http://www.gradients.io/): Curated gradients.
 * [UI Gradients](http://uigradients.com/): Color gradients.
 * [Brandcolors](https://brandcolors.net/): Brand colors.
@@ -130,7 +131,11 @@ A working list of resources for creative digital technologists.
 * [Marvel App](https://marvelapp.com/): Free mobile & web prototyping for designers.
 * [Atomic.io](https://atomic.io/): Free in Browser interactive design Tool.
 * [Flinto](https://www.flinto.com/):  App to create interactive and animated prototypes of designs.
+* [Flow](https://www.flow.help/hc/en-us/articles/360037693613-New-Flow-Walkthrough):Google's Flow for Prototyping
 
+## UX Testing 
+* [Mural](https://mural.co/): Visual collaboration and testing tools
+![crowd being facilitated](https://mural.co/static/images/facilitator/characters.svg)
 
 ## Books
 * [Web design playground](https://www.manning.com/books/web-design-playground/): A step by step guide from writing your first line of HTML to creating interesting, attractive web pages.
