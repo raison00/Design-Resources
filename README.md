@@ -1,7 +1,7 @@
 # Design Technology 
 >Visual Design, Product Design, User Interface Design, User Experience Design, Interactive Design, Technology.
 
-> A working list of resources for creative digital technologists. 
+A working list of resources for creative digital technologists. 
 
 ## Platform &amp; Tooling
 * [Flutter](https://flutter.dev/): Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
@@ -52,6 +52,7 @@
 * [Gradients.io](http://www.gradients.io/): Curated gradients.
 * [UI Gradients](http://uigradients.com/): Color gradients.
 * [Brandcolors](https://brandcolors.net/): Brand colors.
+* [Color Safe](http://colorsafe.co/): Suggestions that will work with a set color.  Does not necessarily suggest compliant colors, so still check with [WebAIM](https://webaim.org/resources/contrastchecker/).
 * [Adobe Color CC](https://color.adobe.com/): Create color schemes or browse thousands of color combinations: Kuler community tool.
 * [Paletton](http://paletton.com):Tool for creating color combinations.
 * [Coolors](https://coolors.co/): Generate color palettes.
