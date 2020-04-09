@@ -6,7 +6,7 @@ A working list of resources for creative digital technologists.
 ## Platform &amp; Tooling
 * [Flutter](https://flutter.dev/): Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
 * [Dart](https://dart.dev/): Dart paints your UI... and more!
-* [DevTools](https://flutter.dev/docs/development/tools/devtools/overview):DevTools is a suite of performance and debugging tools for Dart and Flutter.
+* [DevTools](https://flutter.dev/docs/development/tools/devtools/overview): DevTools is a suite of performance and debugging tools for Dart and Flutter.
 * [Flutter Inspector](https://flutter.dev/docs/development/tools/devtools/inspector): The inspector helps you visualize and explore Flutter widget trees, visualize and troubleshoot layout issues.
 * [Flutter Gallery](https://flutter.github.io/samples/#): A curated list of Flutter samples and apps
 * [Flutter Showcase](https://flutter.dev/showcase): Professional Flutter apps in the wild
@@ -118,6 +118,7 @@ A working list of resources for creative digital technologists.
 * [inVision Studio](https://www.invisionapp.com/studio): Rapid prototyping, animation, built-in design systems, and collaboration.
 * [Sketch](http://sketchapp.com): A lightweight program for digital design for Mac.
 * [Canva](http://canva.com): Amazingly simple graphic design software.
+* [Markup](https://markup.googleplex.com/): Annotate designs with measurements, colors, text styles, and more
 
 
 ## Prototype Tools
@@ -145,6 +146,7 @@ A working list of resources for creative digital technologists.
 
 
 ## Productivity
+* [Markup](https://markup.googleplex.com/): Annotate designs with measurements, colors, text styles, and more
 * [Pomodoro](http://tomato-timer.com): A time management technique.
 * [Toggl](http://toggl.com): Time tracker to improve workplace productivity.
 * [Trello](http://trello.com): Organize and prioritize your projects.
