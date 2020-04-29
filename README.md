@@ -64,6 +64,7 @@ Space Administration Graphics Standards Manual Designed in 1975
 * [Dropbox’s 2014 Carousel Design Deconstructed](https://www.smashingmagazine.com/2014/08/dropbox-carousel-design-deconstructed-part-1/): MVP of the 2014 Carousel UX process
 * [10 Application-Design Mistakes](https://www.nngroup.com/articles/top-10-application-design-mistakes/):Application usability is enhanced when the UI guides and supports users through the workflow. Designing complex applications is a challenging undertaking. Building applications that have both the depth to support complicated tasks and the intuitiveness to make it clear how to get that work done is a tremendous challenge...
 * [UX for Photo Upload](https://medium.com/tripaneer-techblog/a-photo-upload-tool-invent-the-ux-patterns-dont-follow-them-fd0f51188f62): A multi-drop zone
+* [Information Architecture: Effective Techniques For Designers](https://blog.tubikstudio.com/information-architecture-effective-techniques-for-designers/): Effective techniques for IA boosting usability
 
 
 ## User Journeys
