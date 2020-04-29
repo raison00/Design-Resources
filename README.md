@@ -20,6 +20,38 @@ A working list of resources for creative digital technologists.
 * [Ultimate Guide](https://www.moveoapps.com/ultimate-guide-to-mobile-app-design-principles): The ultimate guide to mobile app design principles that make your app shine.
 * [GoodUI](http://www.goodui.org/): 5 Ways You Can Get A Better UI.
 
+## Style Guides and Design Systems
+>A styleguide is a set of standards, principles and rules every developer or designer should follow in order to improve the digital presence of the product.
+* [Documenting future features](https://developers.google.com/style/code-samples): Google developer documentation style guide
+
+* [A11Y Style Guide](https://a11y-style-guide.com/style-guide/): A living style guide or pattern library, generated from KSS documented styles...with an accessibility twist.
+
+* [One-Stop Place for A UI Design Team](https://www.altexsoft.com/blog/uxdesign/creating-a-style-guide-one-stop-place-for-your-ui-design-team/):A style guide is a document gathering all elements of your brand’s visual style.
+
+* [The Complexity of Color](https://www.websitebuilderexpert.com/designing-websites/how-to-choose-color-for-your-website/): Picking and mixing color can be a tricky game.
+
+* [Designing a reliant style guide](https://medium.muz.li/how-to-create-a-style-guide-from-scratch-tips-and-tricks-e00f25b423bf): How To Create a Style Guide From Scratch.
+* [Gather Content](https://gathercontent.com/blog/tone-of-voice-guide): A complete process for developing a content style guide
+* [Style Guide Examples](https://blog.hubspot.com/marketing/examples-brand-style-guides): 21 Brand Style Guide Examples for Visual Inspiration
+* [A List Apart](https://alistapart.com/about/style-guide/): A List Apart: House style
+* [A List Apart: API Documentation](https://alistapart.com/article/the-ten-essentials-for-good-api-documentation/):The Ten Essentials for Good API Documentation
+* [Write the Docs Style Guidance](https://www.writethedocs.org/guide/writing/style-guides/): Write the Docs is a global community of people who care about documentation. 
+
+>Corporate Style guides 
+* [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/?irgwc=1&aosid=p239&cid=aos-us-aff-ir&irchannel=13631&irpid=221109&clickid=0bY35K3MHxyOTxowUx0Mo34BUki26ExpuSp0SM0&ircid=7613): In-depth information and UI resources for designing great apps that integrate seamlessly with Apple platforms.
+* [Firefox Brand + Design Assets](https://design.firefox.com/): The Firefox UX and Brand teams are currently working on consolidating a number of disparate design assets... 
+* [IBM](https://www.ibm.com/design/language/): IBM's Design Language
+* [Uber](https://brand.uber.com/guide): Uber's Branding
+
+
+* [NASA](https://standardsmanual.com/products/nasa-graphics-standards-manual): National Aeronautics and
+Space Administration Graphics Standards Manual Designed in 1975
+>While NASA is the source of the Manual, the publication and distribution of the NASA Graphics Standards Manual is not sponsored or endorsed by NASA and is an independent project undertaken in an effort to preserve and disseminate an archival record of graphic design from the era.
+* [Identity Style Guide](http://www.channel4.com/about_c4/styleguide/downloads/C4StyleGuide1.1.pdf): Channel 4 Identity Style Guide
+* [Barbican Studio](https://guidelines.barbican.org.uk/brand/?_ga=2.34673570.281341990.1588185906-135570912.1588185906): These guidelines have been created by the Barbican Studio.
+* [I Love New York](https://issuu.com/lukaszkulakowski/docs/8278452-i-love-new-york-brand-guide): I Love New York Brand Guidelines
+* [Macmillan’s Brand Book](http://portacreativeserver.com/vault/manualescorporativos/BRANDBOOK%20MACMILLAN.pdf): Macmillan’s Brand Book's goal is to be a source of energy, optimism, knowledge and support for people affected by cancer.
+* [Urban Outfitters Brand Book](https://issuu.com/themarkit/docs/urban_outfitters_brand_book_final_p_d1cb1321abd5a6): A comprehensive brand book illustrating the DNA guidelines of Urban Outfitters.
 
 ## Illustration and UX Design Branding
 * [Brand Illustration Systems: Drawing A Strong Visual Identity](https://www.smashingmagazine.com/2019/12/brand-illustration-systems-visual-identity/): Brand illustrations are an adaptable and effective way to build a company’s visual brand.
@@ -134,9 +166,8 @@ A working list of resources for creative digital technologists.
 * [Flinto](https://www.flinto.com/):  App to create interactive and animated prototypes of designs.
 * [Flow](https://www.flow.help/hc/en-us/articles/360037693613-New-Flow-Walkthrough):Google's Flow for Prototyping
 
-## UX Testing 
+## UX Collaboration and Testing 
 * [Mural](https://mural.co/): Visual collaboration and testing tools
-![crowd being facilitated](https://mural.co/static/images/facilitator/characters.svg)
 
 ## Books
 * [Web design playground](https://www.manning.com/books/web-design-playground/): A step by step guide from writing your first line of HTML to creating interesting, attractive web pages.
