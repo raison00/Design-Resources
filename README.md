@@ -80,6 +80,8 @@ Space Administration Graphics Standards Manual Designed in 1975
 
 ## Onboarding
 * [Material Design Onboarding](https://material.io/design/communication/onboarding.html): Virtual unboxing experience that helps users get started with an app
+* [How Dribbble onboards new users](http://teardowns.ui-patterns.com/onboarding/how-dribbble-onboards-new-users#1): How well has a design community site designed its own UX flows?
+* [How Behance onboards new users](http://teardowns.ui-patterns.com/onboarding/how-behance-onboards-new-users#1): Adobe’s attempt to maintain an online platform to showcase and discover creative work across all of their products.
 
 ## Colors
 * [WebAIM](https://webaim.org/resources/contrastchecker/):WCAG Contrast and Color Requirements
@@ -110,13 +112,33 @@ Space Administration Graphics Standards Manual Designed in 1975
 * [The Noun Project](https://thenounproject.com/): Icons for Everything.
 * [Favicon Generator](http://www.favicon-generator.org/): Favicon & app icon generator.
 
+## Data Visualization
+* [Data Visualization Principles: Lessons from Tufte](https://moz.com/blog/data-visualization-principles-lessons-from-tufte):How Data Visualization impacts from an SEO lens
+* [Flame Graphs and Flame Charts](https://www.georgevreilly.com/blog/2016/08/23/FlameGraphsAndFlameCharts.html): Flame graphs are a clever, in­for­ma­tion-dense way to present computer per­for­mance. 
+* [The Flame Graph](https://queue.acm.org/detail.cfm?id=2927301): This visualization of software execution is a new necessity for performance profiling and debugging.
+* [Flame Charts compliment the existing JavaScript CPU Profile's Tree and Heavy views  ](https://addyosmani.com/blog/devtools-flame-charts/): Visualising JavaScript Processing Over Time With DevTools Flame Charts
+
+## Navigation
+* [Mini Map: Game UI Patterns](https://gameuipatterns.com/gameui/mini-map/): A small section of the screen is dedicated to displaying the player’s current location on a map
+* [Navigation Tabs](https://ui-patterns.com/patterns/NavigationTabs): Content needs to be separated into sections and accessed using a flat navigation structure that gives a clear indication of current location.
+* [Module Tabs](https://ui-patterns.com/patterns/ModuleTabs): Content needs to be separated into sections and accessed via a single content area using a flat navigation structure that does not refresh the page when selected.
+* [Accordion](https://ui-patterns.com/patterns/AccordionMenu): Navigate amongst a website's main sections while still being able to quickly browse to the subsection of another.
+
+
+## Sort
+* [Table Filter](https://ui-patterns.com/patterns/TableFilter): The user needs to categorically filter the data displayed in tables by the columns.
+* [Sort By Column](https://ui-patterns.com/patterns/SortByColumn): The user needs to be able to sort the data in a table according to the values of a column.
+
+
+
 ## Images
 * [Pexels](https://pexels.com): Free stock photos
 * [Unsplash.it](http://unsplash.it): Placeholders using a beautiful image gallery.
 * [Pixabay](https://pixabay.com/): High quality photos and illustrations free for commercial use.
 * [Placehold.it](http://placehold.it): A quick and simple image placeholder service.
 
-
+## UI Patterns
+* [User Interface Design patterns](https://ui-patterns.com/patterns/): Design patterns are standard reference points for the experienced user interface designer.
 
 
 ## Resources and Inspiration
