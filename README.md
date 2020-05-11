@@ -82,6 +82,7 @@ Space Administration Graphics Standards Manual Designed in 1975
 * [Material Design Onboarding](https://material.io/design/communication/onboarding.html): Virtual unboxing experience that helps users get started with an app
 * [How Dribbble onboards new users](http://teardowns.ui-patterns.com/onboarding/how-dribbble-onboards-new-users#1): How well has a design community site designed its own UX flows?
 * [How Behance onboards new users](http://teardowns.ui-patterns.com/onboarding/how-behance-onboards-new-users#1): Adobe’s attempt to maintain an online platform to showcase and discover creative work across all of their products.
+* [Discoverability and Learnability](https://www.interaction-design.org/literature/article/make-it-easy-on-the-user-designing-for-discoverability-within-mobile-apps): The ease at which users can find new features or functions with an app and learn to use the things that they find. 
 
 ## Colors
 * [WebAIM](https://webaim.org/resources/contrastchecker/):WCAG Contrast and Color Requirements
@@ -112,6 +113,10 @@ Space Administration Graphics Standards Manual Designed in 1975
 * [The Noun Project](https://thenounproject.com/): Icons for Everything.
 * [Favicon Generator](http://www.favicon-generator.org/): Favicon & app icon generator.
 
+## Focusing on Context
+* [Checkbox vs Toggle Switch: 7 Use-Cases of Forms Design](https://uxdworld.com/2018/08/13/checkbox-vs-toggle-switch-7-use-cases-of-forms-design/): Similar Functions but for Different Contexts.
+
+
 ## Data Visualization
 * [Data Visualization Principles: Lessons from Tufte](https://moz.com/blog/data-visualization-principles-lessons-from-tufte):How Data Visualization impacts from an SEO lens
 * [Flame Graphs and Flame Charts](https://www.georgevreilly.com/blog/2016/08/23/FlameGraphsAndFlameCharts.html): Flame graphs are a clever, in­for­ma­tion-dense way to present computer per­for­mance. 
@@ -119,16 +124,38 @@ Space Administration Graphics Standards Manual Designed in 1975
 * [Flame Charts compliment the existing JavaScript CPU Profile's Tree and Heavy views  ](https://addyosmani.com/blog/devtools-flame-charts/): Visualising JavaScript Processing Over Time With DevTools Flame Charts
 
 ## Navigation
+* [Synergy Between Navigation and Search](https://www.nngroup.com/articles/search-not-enough/?lm=filter-categories-values&pt=article): Navigation serves important functions: it shows people what they can find on the site, and teaches them about the structure of the search space. Using the navigation categories is often faster and easier for users than generating a good search query. 
 * [Mini Map: Game UI Patterns](https://gameuipatterns.com/gameui/mini-map/): A small section of the screen is dedicated to displaying the player’s current location on a map
 * [Navigation Tabs](https://ui-patterns.com/patterns/NavigationTabs): Content needs to be separated into sections and accessed using a flat navigation structure that gives a clear indication of current location.
 * [Module Tabs](https://ui-patterns.com/patterns/ModuleTabs): Content needs to be separated into sections and accessed via a single content area using a flat navigation structure that does not refresh the page when selected.
 * [Accordion](https://ui-patterns.com/patterns/AccordionMenu): Navigate amongst a website's main sections while still being able to quickly browse to the subsection of another.
+* [Design Patterns for Fluid Navigation – How to Use Inline Linking](https://www.interaction-design.org/literature/article/design-patterns-for-fluid-navigation-how-to-use-inline-linking): Inline links are employed so that the information linked from the highlighted words does not clutter the user's current web page. 
+* [Converting Search into Navigation](https://www.nngroup.com/articles/search-navigation/?lm=filter-categories-values&pt=article): Redirect users' efforts into more supportive user interfaces when possible for complicated search queries.
+* [Effects of Centered Logos on Navigation Success](https://www.nngroup.com/articles/centered-logos/?lm=filter-categories-values&pt=article): User Study in 2016 shows users having issue clicking on a centered logo for navigation.  Is this really an issue in 2020? Result: make logos left aligned.
+* [Filters vs. Facets: Definitions](https://www.nngroup.com/articles/filters-vs-facets/): Both tools help users narrow large sets of content, but faceted navigation — while more flexible and powerful — is more difficult to create and maintain.
+* [Search vs. Filter Preconceptions](https://community.uxmastery.com/t/search-vs-filter-preconceptions/1715): Archived discussion: Labeling of certain buttons as either “Search” or “Filter” buttons to get only specific rows of information from already-displayed data tables on page. 
+
+## Perception, Notification and Validation
+* [Inline Editing and Validation in Tables](https://uxdworld.com/2020/04/22/inline-editing-and-validation-in-tables/): Providing an easy to use experience for a data table is a challenging task when you are dealing with large data.
+* [An Understanding of Perception and Cognition, Part I](https://www.uxmatters.com/mt/archives/2010/07/updating-our-understanding-of-perception-and-cognition-part-i.php): What researchers have discovered about human perception and cognition over the past thirty years. This article focuses on visual perception.
+* [An Understanding of Perception and Cognition, Part II](https://www.uxmatters.com/mt/archives/2010/08/updating-our-understanding-of-perception-and-cognition-part-ii.php): What researchers have discovered about human perception and cognition over the past thirty years. This article focuses on cognition and cognitive / perceptual speed.
 
 
-## Sort
+## Search, Sort, Filter, and Findability
+* [How to craft a kickass filtering UX](https://uxdesign.cc/crafting-a-kickass-filtering-ux-beea1798d64b): Filters are a great tool to narrow down high volumes of content and to surface the most relevant results. How do we make sure they are helpful rather than confusing?
+* [How To Improve Advanced Search UX](https://uxplanet.org/how-to-improve-advanced-search-ux-450df698004c): Advanced search is a way to find something from a large list of items by specifying a criteria including multiple parameters.
+* [Defining Helpful Filter Categories and Values for Better UX](https://www.nngroup.com/articles/filter-categories-values/):  For a useful faceted search, develop filter categories and filter values that are appropriate, predictable, free of jargon, and prioritized.
 * [Table Filter](https://ui-patterns.com/patterns/TableFilter): The user needs to categorically filter the data displayed in tables by the columns.
 * [Sort By Column](https://ui-patterns.com/patterns/SortByColumn): The user needs to be able to sort the data in a table according to the values of a column.
-
+* [Filtering best practices](https://uxdesign.cc/crafting-a-kickass-filtering-ux-beea1798d64b): How do we make sure they are helpful rather than confusing?
+* [Best Practices for Search](https://www.uxbooth.com/articles/best-practices-for-search/): There are a number of things to think about when designing the UI behind search and results; there are a few general tips that work for multiple different types of apps and websites. 
+* [Best Practices to design advanced search](https://uxplanet.org/how-to-improve-advanced-search-ux-450df698004c):
+* [Building a filter bar — improving the user experience of filtering and searching](https://medium.com/unomaly/building-a-filter-bar-improving-the-user-experience-of-filtering-and-searching-in-unomaly-da57fc6adeec): Improve the user experience of filtering, searching and navigating data sets, making it easier for users to find what they‘re looking for.
+* [Search Box Design](https://www.uxbooth.com/articles/best-practices-for-search/): Search is like a conversation between the user and app or website: the user expresses their information need as a query, and the app or website expresses its response as a set of results. 
+* [Search: Visible and Simple](https://www.nngroup.com/articles/search-visible-and-simple/):  Search is the user's lifeline for mastering complex websites. The best designs offer a simple search box on the homepage and play down advanced search and scoping.
+* [5 things to be mindful of when you design filters](https://uxdesign.cc/5-things-to-be-mindful-of-when-you-design-filters-fc1ca83e157c): Search filter design considerations
+* [Myth: Search will solve a website’s navigation problems](https://uxmyths.com/post/717755413/myth-search-will-solve-a-websites-navigation-problems): People are better at recognizing things than recalling them from memory. It’s much easier and faster to click on a link than to enter a search term.
+* [How To Improve Advanced Search UX](https://uxdworld.com/2018/07/15/how-to-improve-advanced-search-ux/#more-651: Advanced search is a way to find something from a large list of items by specifying a criteria including multiple parameters.
 
 
 ## Images
@@ -137,12 +164,15 @@ Space Administration Graphics Standards Manual Designed in 1975
 * [Pixabay](https://pixabay.com/): High quality photos and illustrations free for commercial use.
 * [Placehold.it](http://placehold.it): A quick and simple image placeholder service.
 
-## UI Patterns
+## Design and UI Patterns
 * [User Interface Design patterns](https://ui-patterns.com/patterns/): Design patterns are standard reference points for the experienced user interface designer.
+* [10 Great Sites for UI Design Patterns](https://www.interaction-design.org/literature/article/10-great-sites-for-ui-design-patterns): May 2020 list of some of the best places to find design patterns on the web.
+* [What Goes Into a Design Pattern?](https://www.interaction-design.org/literature/article/using-design-patterns-doing-it-again-without-the-hard-work): Design patterns can be used for so many different applications that there’s no standard for developing a design pattern. In general, the best design patterns act as guides to implementation in any circumstance that the concept may be needed in. 
 
 
 ## Resources and Inspiration
 * [Google Design](https://www.youtube.com/channel/UClKO7be7O9cUGL94PHnAeOA): Youtube channel featuring videos for designers about Google design.
+* [UX Myths](https://uxmyths.com/): UX Myths collects the most frequent user experience misconceptions and explains why they don't hold true.
 * [Smashing Magazine](http://smashingmagazine.com): For professional web designers & developers.
 * [Medium](https://medium.com/tag/web-design): A community of readers and writers offering unique perspectives on ideas large and small.
 * [Creative Bloq](http://www.creativebloq.com/): Art & design inspiration.
@@ -188,6 +218,7 @@ Space Administration Graphics Standards Manual Designed in 1975
 * [Atomic.io](https://atomic.io/): Free in Browser interactive design Tool.
 * [Flinto](https://www.flinto.com/):  App to create interactive and animated prototypes of designs.
 * [Flow](https://www.flow.help/hc/en-us/articles/360037693613-New-Flow-Walkthrough):Google's Flow for Prototyping
+* [9 Free to Use Wireframing Tools](https://www.interaction-design.org/literature/article/10-free-to-use-wireframing-tools): Most of the tools in this list have premium options that let you extend the functionality in some way or another but all of the free options let you get to experience the way that they work. 
 
 ## UX Collaboration and Testing 
 * [Mural](https://mural.co/): Visual collaboration and testing tools
