@@ -155,7 +155,7 @@ Space Administration Graphics Standards Manual Designed in 1975
 * [Search: Visible and Simple](https://www.nngroup.com/articles/search-visible-and-simple/):  Search is the user's lifeline for mastering complex websites. The best designs offer a simple search box on the homepage and play down advanced search and scoping.
 * [5 things to be mindful of when you design filters](https://uxdesign.cc/5-things-to-be-mindful-of-when-you-design-filters-fc1ca83e157c): Search filter design considerations
 * [Myth: Search will solve a website’s navigation problems](https://uxmyths.com/post/717755413/myth-search-will-solve-a-websites-navigation-problems): People are better at recognizing things than recalling them from memory. It’s much easier and faster to click on a link than to enter a search term.
-* [How To Improve Advanced Search UX](https://uxdworld.com/2018/07/15/how-to-improve-advanced-search-ux/#more-651: Advanced search is a way to find something from a large list of items by specifying a criteria including multiple parameters.
+* [How To Improve Advanced Search UX](https://uxdworld.com/2018/07/15/how-to-improve-advanced-search-ux/#more-651): Advanced search is a way to find something from a large list of items by specifying a criteria including multiple parameters.
 
 
 ## Images
