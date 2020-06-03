@@ -115,7 +115,8 @@ Space Administration Graphics Standards Manual Designed in 1975
 
 ## Focusing on Context
 * [Checkbox vs Toggle Switch: 7 Use-Cases of Forms Design](https://uxdworld.com/2018/08/13/checkbox-vs-toggle-switch-7-use-cases-of-forms-design/): Similar Functions but for Different Contexts.
-
+## Visibility
+* [https://uxplanet.org/4-ways-to-communicate-the-visibility-of-system-status-in-ui-14ff2351c8e8]( Visibility of System Status in UI):4 Ways To Communicate the Visibility of System Status in UI
 
 ## Data Visualization
 * [Data Visualization Principles: Lessons from Tufte](https://moz.com/blog/data-visualization-principles-lessons-from-tufte):How Data Visualization impacts from an SEO lens
