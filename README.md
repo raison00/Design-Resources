@@ -123,6 +123,7 @@ Space Administration Graphics Standards Manual Designed in 1975
 * [Flame Graphs and Flame Charts](https://www.georgevreilly.com/blog/2016/08/23/FlameGraphsAndFlameCharts.html): Flame graphs are a clever, in­for­ma­tion-dense way to present computer per­for­mance. 
 * [The Flame Graph](https://queue.acm.org/detail.cfm?id=2927301): This visualization of software execution is a new necessity for performance profiling and debugging.
 * [Flame Charts compliment the existing JavaScript CPU Profile's Tree and Heavy views  ](https://addyosmani.com/blog/devtools-flame-charts/): Visualising JavaScript Processing Over Time With DevTools Flame Charts
+* [Using Heat Maps](https://www.hotjar.com/blog/improve-website-ux-with-heatmaps/): UX overview of heat map use
 
 ## Navigation
 * [Synergy Between Navigation and Search](https://www.nngroup.com/articles/search-not-enough/?lm=filter-categories-values&pt=article): Navigation serves important functions: it shows people what they can find on the site, and teaches them about the structure of the search space. Using the navigation categories is often faster and easier for users than generating a good search query. 
