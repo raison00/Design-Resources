@@ -119,6 +119,7 @@ Space Administration Graphics Standards Manual Designed in 1975
 * [Visibility of System Status in UI](https://uxplanet.org/4-ways-to-communicate-the-visibility-of-system-status-in-ui-14ff2351c8e8): 4 Ways To Communicate the Visibility of System Status in UI
 
 ## Data Visualization
+* [Profiling Flutter Applications Using the Timeline](https://medium.com/flutter/profiling-flutter-applications-using-the-timeline-a1a434964af3): The Timeline allows you to find and address specific performance issues in your application.
 * [Data Visualization Principles: Lessons from Tufte](https://moz.com/blog/data-visualization-principles-lessons-from-tufte):How Data Visualization impacts from an SEO lens
 * [Flame Graphs and Flame Charts](https://www.georgevreilly.com/blog/2016/08/23/FlameGraphsAndFlameCharts.html): Flame graphs are a clever, in­for­ma­tion-dense way to present computer per­for­mance. 
 * [The Flame Graph](https://queue.acm.org/detail.cfm?id=2927301): This visualization of software execution is a new necessity for performance profiling and debugging.
