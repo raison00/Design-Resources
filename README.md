@@ -159,6 +159,8 @@ Space Administration Graphics Standards Manual Designed in 1975
 
 ## Search, Sort, Filter, and Findability
 * [How to craft a kickass filtering UX](https://uxdesign.cc/crafting-a-kickass-filtering-ux-beea1798d64b): Filters are a great tool to narrow down high volumes of content and to surface the most relevant results. How do we make sure they are helpful rather than confusing?
+* [Front End Concerns When Implementing Faceted Search – Part 1 ](https://articles.uie.com/faceted_search2/): “A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools.” Douglas Adams
+* [Front End Concerns When Implementing Faceted Search – Part 2](https://articles.uie.com/faceted_search2part2/): The Search Box raises significant design challenges for application developers. The designer of a faceted search system must make a number of choices about how the search box behaves.
 * [How To Improve Advanced Search UX](https://uxplanet.org/how-to-improve-advanced-search-ux-450df698004c): Advanced search is a way to find something from a large list of items by specifying a criteria including multiple parameters.
 * [Defining Helpful Filter Categories and Values for Better UX](https://www.nngroup.com/articles/filter-categories-values/):  For a useful faceted search, develop filter categories and filter values that are appropriate, predictable, free of jargon, and prioritized.
 * [Table Filter](https://ui-patterns.com/patterns/TableFilter): The user needs to categorically filter the data displayed in tables by the columns.
@@ -172,6 +174,8 @@ Space Administration Graphics Standards Manual Designed in 1975
 * [5 things to be mindful of when you design filters](https://uxdesign.cc/5-things-to-be-mindful-of-when-you-design-filters-fc1ca83e157c): Search filter design considerations
 * [Myth: Search will solve a website’s navigation problems](https://uxmyths.com/post/717755413/myth-search-will-solve-a-websites-navigation-problems): People are better at recognizing things than recalling them from memory. It’s much easier and faster to click on a link than to enter a search term.
 * [How To Improve Advanced Search UX](https://uxdworld.com/2018/07/15/how-to-improve-advanced-search-ux/#more-651): Advanced search is a way to find something from a large list of items by specifying a criteria including multiple parameters.
+* [Designing for Faceted Search](https://articles.uie.com/faceted_search/): Faceted search, or guided navigation, has become the de facto standard and has become so ubiquitous that users are not only getting used to it, they are coming to expect it.
+* [Producing Great Search Results: Harder than It Looks, Part 1 ](https://articles.uie.com/search_results/): There is no way, as far as we know, that you can produce a great search results page without spending the time and effort to build it.
 
 
 ## Images
@@ -188,6 +192,7 @@ Space Administration Graphics Standards Manual Designed in 1975
 
 ## Resources and Inspiration
 * [Google Design](https://www.youtube.com/channel/UClKO7be7O9cUGL94PHnAeOA): Youtube channel featuring videos for designers about Google design.
+* [ Hunkering: Putting Disorientation into the Design Process ](https://articles.uie.com/hunkering/): When we started studying how great digital designers worked, we recognized the same sort of hunkering processes, albeit in digital form.
 * [UX Myths](https://uxmyths.com/): UX Myths collects the most frequent user experience misconceptions and explains why they don't hold true.
 * [Smashing Magazine](http://smashingmagazine.com): For professional web designers & developers.
 * [Medium](https://medium.com/tag/web-design): A community of readers and writers offering unique perspectives on ideas large and small.
