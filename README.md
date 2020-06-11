@@ -1,7 +1,7 @@
 # Design Technology 
 >Visual Design, Product Design, User Interface Design, User Experience Design, Interactive Design, Technology.
 
-A working list of resources for creative digital technologists. 
+A working list of resources for creative digital technologists to use with Google’s UI toolkit [Flutter](https://flutter.dev/). 
 
 ## Platform &amp; Tooling
 * [Flutter](https://flutter.dev/): Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
@@ -11,8 +11,66 @@ A working list of resources for creative digital technologists.
 * [Flutter Gallery](https://flutter.github.io/samples/#): A curated list of Flutter samples and apps
 * [Flutter Showcase](https://flutter.dev/showcase): Professional Flutter apps in the wild
 * [Flutter Cookbook](https://flutter.dev/docs/cookbook): Standard Cookbook
+* [Flutter Tutorials](https://flutter.dev/docs/reference/tutorials): How to use the Flutter framework to build mobile applications for iOS and Android.
 
 
+## Search, Sort, Filter, and Findability
+* [How to craft a kickass filtering UX](https://uxdesign.cc/crafting-a-kickass-filtering-ux-beea1798d64b): Filters are a great tool to narrow down high volumes of content and to surface the most relevant results. How do we make sure they are helpful rather than confusing?
+* [Front End Concerns When Implementing Faceted Search – Part 1 ](https://articles.uie.com/faceted_search2/): “A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools.” Douglas Adams
+* [Front End Concerns When Implementing Faceted Search – Part 2](https://articles.uie.com/faceted_search2part2/): The Search Box raises significant design challenges for application developers. The designer of a faceted search system must make a number of choices about how the search box behaves.
+* [How To Improve Advanced Search UX](https://uxplanet.org/how-to-improve-advanced-search-ux-450df698004c): Advanced search is a way to find something from a large list of items by specifying a criteria including multiple parameters.
+* [Defining Helpful Filter Categories and Values for Better UX](https://www.nngroup.com/articles/filter-categories-values/):  For a useful faceted search, develop filter categories and filter values that are appropriate, predictable, free of jargon, and prioritized.
+* [Table Filter](https://ui-patterns.com/patterns/TableFilter): The user needs to categorically filter the data displayed in tables by the columns.
+* [Sort By Column](https://ui-patterns.com/patterns/SortByColumn): The user needs to be able to sort the data in a table according to the values of a column.
+* [Filtering best practices](https://uxdesign.cc/crafting-a-kickass-filtering-ux-beea1798d64b): How do we make sure they are helpful rather than confusing?
+* [Best Practices for Search](https://www.uxbooth.com/articles/best-practices-for-search/): There are a number of things to think about when designing the UI behind search and results; there are a few general tips that work for multiple different types of apps and websites. 
+* [Best Practices to design advanced search](https://uxplanet.org/how-to-improve-advanced-search-ux-450df698004c):
+* [Building a filter bar — improving the user experience of filtering and searching](https://medium.com/unomaly/building-a-filter-bar-improving-the-user-experience-of-filtering-and-searching-in-unomaly-da57fc6adeec): Improve the user experience of filtering, searching and navigating data sets, making it easier for users to find what they‘re looking for.
+* [Search Box Design](https://www.uxbooth.com/articles/best-practices-for-search/): Search is like a conversation between the user and app or website: the user expresses their information need as a query, and the app or website expresses its response as a set of results. 
+* [Search: Visible and Simple](https://www.nngroup.com/articles/search-visible-and-simple/):  Search is the user's lifeline for mastering complex websites. The best designs offer a simple search box on the homepage and play down advanced search and scoping.
+* [5 things to be mindful of when you design filters](https://uxdesign.cc/5-things-to-be-mindful-of-when-you-design-filters-fc1ca83e157c): Search filter design considerations
+* [Myth: Search will solve a website’s navigation problems](https://uxmyths.com/post/717755413/myth-search-will-solve-a-websites-navigation-problems): People are better at recognizing things than recalling them from memory. It’s much easier and faster to click on a link than to enter a search term.
+* [How To Improve Advanced Search UX](https://uxdworld.com/2018/07/15/how-to-improve-advanced-search-ux/#more-651): Advanced search is a way to find something from a large list of items by specifying a criteria including multiple parameters.
+* [Designing for Faceted Search](https://articles.uie.com/faceted_search/): Faceted search, or guided navigation, has become the de facto standard and has become so ubiquitous that users are not only getting used to it, they are coming to expect it.
+* [Producing Great Search Results: Harder than It Looks, Part 1 ](https://articles.uie.com/search_results/): There is no way, as far as we know, that you can produce a great search results page without spending the time and effort to build it.
+
+## Data Visualization
+* [Profiling Flutter Applications Using the Timeline](https://medium.com/flutter/profiling-flutter-applications-using-the-timeline-a1a434964af3): The Timeline allows you to find and address specific performance issues in your application.
+* [Data Visualization Principles: Lessons from Tufte](https://moz.com/blog/data-visualization-principles-lessons-from-tufte):How Data Visualization impacts from an SEO lens
+* [Flame Graphs and Flame Charts](https://www.georgevreilly.com/blog/2016/08/23/FlameGraphsAndFlameCharts.html): Flame graphs are a clever, in­for­ma­tion-dense way to present computer per­for­mance. 
+* [The Flame Graph](https://queue.acm.org/detail.cfm?id=2927301): This visualization of software execution is a new necessity for performance profiling and debugging.
+* [Flame Charts compliment the existing JavaScript CPU Profile's Tree and Heavy views  ](https://addyosmani.com/blog/devtools-flame-charts/): Visualising JavaScript Processing Over Time With DevTools Flame Charts
+* [Using Heat Maps](https://www.hotjar.com/blog/improve-website-ux-with-heatmaps/): UX overview of heat map use
+* [Simple Heat Maps for Smarter UI Design](https://www.uxpin.com/studio/blog/understanding-simple-heat-maps-smarter-ui-design/): Click tracking heatmaps are an incredibly useful tool when it comes to collecting data about users. 
+* [Heatmap Timeline for Visualization of Time Series Data](https://patents.google.com/patent/US20120262472A1/en): The approach for conveying time-series data may be a “heatmap timeline”. Rather than use a spatial dimension indicate a datum value for each timestamp, the heatmap timeline may employ hue, saturation, or value of color, and/or pattern and/or shading, perhaps shown within a geometric shape, to indicate the datum value along a timeline. Data values may be aggregated into one value indication.
+
+## Monitoring CPU Usage & Memory Leaks
+* [Performance Analysis Reference](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/reference#rendering): Google Developers Performance Analysis Reference
+* [CPU Bottleneck vs. Memory Bottleneck](https://mapr.com/blog/an-introduction-to-computer-processors-part-3/): This article references commands, behaviors, and outputs generated by Linux-based operating systems.
+* [Visualizing Performance with Flame Graphs](http://www.brendangregg.com/FlameGraphs/cpuflamegraphs.html): CPU Flame Graphs 
+* [Video: Visualizing Performance with Flame Graphs](https://www.usenix.org/conference/atc17/program/presentation/gregg-flame): This talk describes the background for this work, and the challenges encountered when profiling stack traces and resolving symbols for different languages, including for just-in-time compiler runtimes.
+* [Finding JavaScript memory leaks with Chrome](https://stackoverflow.com/questions/19621074/finding-javascript-memory-leaks-with-chrome): workflow to find memory leaks is the three snapshot technique
+* [Easing JavaScript Memory Profiling In Chrome DevTools](https://addyosmani.com/blog/taming-the-unicorn-easing-javascript-memory-profiling-in-devtools/): The DevTools Heap Profiler and Timeline Memory view can be used to diagnose memory leaks on both desktop and mobile (via remote debugging).
+* [Analyze CPU and Memory while Debugging](https://devblogs.microsoft.com/visualstudio/analyze-cpu-memory-while-debugging/): Would you like to learn how to make your code run faster, use less memory, or just find out whether your code has a CPU or memory issue? 
+* [Diagnosing Event Handler Leaks with the Memory Usage Tool](https://devblogs.microsoft.com/devops/diagnosing-event-handler-leaks-with-the-memory-usage-tool-in-visual-studio-2015/): Memory Usage Tool in Visual Studio
+* [Flutter 'Compute' memory leak - How do I retire heap variables used by compute instance?](https://stackoverflow.com/questions/55695119/flutter-compute-memory-leak-how-do-i-retire-heap-variables-used-by-compute-i): Stack Overflow: Flutter 'Compute' memory leak - How do I retire heap variables used by compute instance?
+
+## Navigation
+* [Synergy Between Navigation and Search](https://www.nngroup.com/articles/search-not-enough/?lm=filter-categories-values&pt=article): Navigation serves important functions: it shows people what they can find on the site, and teaches them about the structure of the search space. Using the navigation categories is often faster and easier for users than generating a good search query. 
+* [Mini Map: Game UI Patterns](https://gameuipatterns.com/gameui/mini-map/): A small section of the screen is dedicated to displaying the player’s current location on a map
+* [Navigation Tabs](https://ui-patterns.com/patterns/NavigationTabs): Content needs to be separated into sections and accessed using a flat navigation structure that gives a clear indication of current location.
+* [Module Tabs](https://ui-patterns.com/patterns/ModuleTabs): Content needs to be separated into sections and accessed via a single content area using a flat navigation structure that does not refresh the page when selected.
+* [Accordion](https://ui-patterns.com/patterns/AccordionMenu): Navigate amongst a website's main sections while still being able to quickly browse to the subsection of another.
+* [Design Patterns for Fluid Navigation – How to Use Inline Linking](https://www.interaction-design.org/literature/article/design-patterns-for-fluid-navigation-how-to-use-inline-linking): Inline links are employed so that the information linked from the highlighted words does not clutter the user's current web page. 
+* [Converting Search into Navigation](https://www.nngroup.com/articles/search-navigation/?lm=filter-categories-values&pt=article): Redirect users' efforts into more supportive user interfaces when possible for complicated search queries.
+* [Effects of Centered Logos on Navigation Success](https://www.nngroup.com/articles/centered-logos/?lm=filter-categories-values&pt=article): User Study in 2016 shows users having issue clicking on a centered logo for navigation.  Is this really an issue in 2020? Result: make logos left aligned.
+* [Filters vs. Facets: Definitions](https://www.nngroup.com/articles/filters-vs-facets/): Both tools help users narrow large sets of content, but faceted navigation — while more flexible and powerful — is more difficult to create and maintain.
+* [Search vs. Filter Preconceptions](https://community.uxmastery.com/t/search-vs-filter-preconceptions/1715): Archived discussion: Labeling of certain buttons as either “Search” or “Filter” buttons to get only specific rows of information from already-displayed data tables on page. 
+
+## Perception, Notification and Validation
+* [Inline Editing and Validation in Tables](https://uxdworld.com/2020/04/22/inline-editing-and-validation-in-tables/): Providing an easy to use experience for a data table is a challenging task when you are dealing with large data.
+* [An Understanding of Perception and Cognition, Part I](https://www.uxmatters.com/mt/archives/2010/07/updating-our-understanding-of-perception-and-cognition-part-i.php): What researchers have discovered about human perception and cognition over the past thirty years. This article focuses on visual perception.
+* [An Understanding of Perception and Cognition, Part II](https://www.uxmatters.com/mt/archives/2010/08/updating-our-understanding-of-perception-and-cognition-part-ii.php): What researchers have discovered about human perception and cognition over the past thirty years. This article focuses on cognition and cognitive / perceptual speed.
 ## Guidelines
 * [Google Material Design](https://material.google.com/): A close look at the design, components & resources for Google's brand.
 * [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/): Offers everything you need to design beautiful, engaging iOS apps.
@@ -118,64 +176,9 @@ Space Administration Graphics Standards Manual Designed in 1975
 ## Visibility
 * [Visibility of System Status in UI](https://uxplanet.org/4-ways-to-communicate-the-visibility-of-system-status-in-ui-14ff2351c8e8): 4 Ways To Communicate the Visibility of System Status in UI
 
-## Data Visualization
-* [Profiling Flutter Applications Using the Timeline](https://medium.com/flutter/profiling-flutter-applications-using-the-timeline-a1a434964af3): The Timeline allows you to find and address specific performance issues in your application.
-* [Data Visualization Principles: Lessons from Tufte](https://moz.com/blog/data-visualization-principles-lessons-from-tufte):How Data Visualization impacts from an SEO lens
-* [Flame Graphs and Flame Charts](https://www.georgevreilly.com/blog/2016/08/23/FlameGraphsAndFlameCharts.html): Flame graphs are a clever, in­for­ma­tion-dense way to present computer per­for­mance. 
-* [The Flame Graph](https://queue.acm.org/detail.cfm?id=2927301): This visualization of software execution is a new necessity for performance profiling and debugging.
-* [Flame Charts compliment the existing JavaScript CPU Profile's Tree and Heavy views  ](https://addyosmani.com/blog/devtools-flame-charts/): Visualising JavaScript Processing Over Time With DevTools Flame Charts
-* [Using Heat Maps](https://www.hotjar.com/blog/improve-website-ux-with-heatmaps/): UX overview of heat map use
-* [Simple Heat Maps for Smarter UI Design](https://www.uxpin.com/studio/blog/understanding-simple-heat-maps-smarter-ui-design/): Click tracking heatmaps are an incredibly useful tool when it comes to collecting data about users. 
-* [Heatmap Timeline for Visualization of Time Series Data](https://patents.google.com/patent/US20120262472A1/en): The approach for conveying time-series data may be a “heatmap timeline”. Rather than use a spatial dimension indicate a datum value for each timestamp, the heatmap timeline may employ hue, saturation, or value of color, and/or pattern and/or shading, perhaps shown within a geometric shape, to indicate the datum value along a timeline. Data values may be aggregated into one value indication.
-
-## Monitoring CPU Usage & Memory Leaks
-* [Performance Analysis Reference](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/reference#rendering): Google Developers Performance Analysis Reference
-* [CPU Bottleneck vs. Memory Bottleneck](https://mapr.com/blog/an-introduction-to-computer-processors-part-3/): This article references commands, behaviors, and outputs generated by Linux-based operating systems.
-* [Visualizing Performance with Flame Graphs](http://www.brendangregg.com/FlameGraphs/cpuflamegraphs.html): CPU Flame Graphs 
-* [Video: Visualizing Performance with Flame Graphs](https://www.usenix.org/conference/atc17/program/presentation/gregg-flame): This talk describes the background for this work, and the challenges encountered when profiling stack traces and resolving symbols for different languages, including for just-in-time compiler runtimes.
-* [Finding JavaScript memory leaks with Chrome](https://stackoverflow.com/questions/19621074/finding-javascript-memory-leaks-with-chrome): workflow to find memory leaks is the three snapshot technique
-* [Easing JavaScript Memory Profiling In Chrome DevTools](https://addyosmani.com/blog/taming-the-unicorn-easing-javascript-memory-profiling-in-devtools/): The DevTools Heap Profiler and Timeline Memory view can be used to diagnose memory leaks on both desktop and mobile (via remote debugging).
-* [Analyze CPU and Memory while Debugging](https://devblogs.microsoft.com/visualstudio/analyze-cpu-memory-while-debugging/): Would you like to learn how to make your code run faster, use less memory, or just find out whether your code has a CPU or memory issue? 
-* [Diagnosing Event Handler Leaks with the Memory Usage Tool](https://devblogs.microsoft.com/devops/diagnosing-event-handler-leaks-with-the-memory-usage-tool-in-visual-studio-2015/): Memory Usage Tool in Visual Studio
-* [Flutter 'Compute' memory leak - How do I retire heap variables used by compute instance?](https://stackoverflow.com/questions/55695119/flutter-compute-memory-leak-how-do-i-retire-heap-variables-used-by-compute-i): Stack Overflow: Flutter 'Compute' memory leak - How do I retire heap variables used by compute instance?
-
-## Navigation
-* [Synergy Between Navigation and Search](https://www.nngroup.com/articles/search-not-enough/?lm=filter-categories-values&pt=article): Navigation serves important functions: it shows people what they can find on the site, and teaches them about the structure of the search space. Using the navigation categories is often faster and easier for users than generating a good search query. 
-* [Mini Map: Game UI Patterns](https://gameuipatterns.com/gameui/mini-map/): A small section of the screen is dedicated to displaying the player’s current location on a map
-* [Navigation Tabs](https://ui-patterns.com/patterns/NavigationTabs): Content needs to be separated into sections and accessed using a flat navigation structure that gives a clear indication of current location.
-* [Module Tabs](https://ui-patterns.com/patterns/ModuleTabs): Content needs to be separated into sections and accessed via a single content area using a flat navigation structure that does not refresh the page when selected.
-* [Accordion](https://ui-patterns.com/patterns/AccordionMenu): Navigate amongst a website's main sections while still being able to quickly browse to the subsection of another.
-* [Design Patterns for Fluid Navigation – How to Use Inline Linking](https://www.interaction-design.org/literature/article/design-patterns-for-fluid-navigation-how-to-use-inline-linking): Inline links are employed so that the information linked from the highlighted words does not clutter the user's current web page. 
-* [Converting Search into Navigation](https://www.nngroup.com/articles/search-navigation/?lm=filter-categories-values&pt=article): Redirect users' efforts into more supportive user interfaces when possible for complicated search queries.
-* [Effects of Centered Logos on Navigation Success](https://www.nngroup.com/articles/centered-logos/?lm=filter-categories-values&pt=article): User Study in 2016 shows users having issue clicking on a centered logo for navigation.  Is this really an issue in 2020? Result: make logos left aligned.
-* [Filters vs. Facets: Definitions](https://www.nngroup.com/articles/filters-vs-facets/): Both tools help users narrow large sets of content, but faceted navigation — while more flexible and powerful — is more difficult to create and maintain.
-* [Search vs. Filter Preconceptions](https://community.uxmastery.com/t/search-vs-filter-preconceptions/1715): Archived discussion: Labeling of certain buttons as either “Search” or “Filter” buttons to get only specific rows of information from already-displayed data tables on page. 
-
-## Perception, Notification and Validation
-* [Inline Editing and Validation in Tables](https://uxdworld.com/2020/04/22/inline-editing-and-validation-in-tables/): Providing an easy to use experience for a data table is a challenging task when you are dealing with large data.
-* [An Understanding of Perception and Cognition, Part I](https://www.uxmatters.com/mt/archives/2010/07/updating-our-understanding-of-perception-and-cognition-part-i.php): What researchers have discovered about human perception and cognition over the past thirty years. This article focuses on visual perception.
-* [An Understanding of Perception and Cognition, Part II](https://www.uxmatters.com/mt/archives/2010/08/updating-our-understanding-of-perception-and-cognition-part-ii.php): What researchers have discovered about human perception and cognition over the past thirty years. This article focuses on cognition and cognitive / perceptual speed.
 
 
-## Search, Sort, Filter, and Findability
-* [How to craft a kickass filtering UX](https://uxdesign.cc/crafting-a-kickass-filtering-ux-beea1798d64b): Filters are a great tool to narrow down high volumes of content and to surface the most relevant results. How do we make sure they are helpful rather than confusing?
-* [Front End Concerns When Implementing Faceted Search – Part 1 ](https://articles.uie.com/faceted_search2/): “A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools.” Douglas Adams
-* [Front End Concerns When Implementing Faceted Search – Part 2](https://articles.uie.com/faceted_search2part2/): The Search Box raises significant design challenges for application developers. The designer of a faceted search system must make a number of choices about how the search box behaves.
-* [How To Improve Advanced Search UX](https://uxplanet.org/how-to-improve-advanced-search-ux-450df698004c): Advanced search is a way to find something from a large list of items by specifying a criteria including multiple parameters.
-* [Defining Helpful Filter Categories and Values for Better UX](https://www.nngroup.com/articles/filter-categories-values/):  For a useful faceted search, develop filter categories and filter values that are appropriate, predictable, free of jargon, and prioritized.
-* [Table Filter](https://ui-patterns.com/patterns/TableFilter): The user needs to categorically filter the data displayed in tables by the columns.
-* [Sort By Column](https://ui-patterns.com/patterns/SortByColumn): The user needs to be able to sort the data in a table according to the values of a column.
-* [Filtering best practices](https://uxdesign.cc/crafting-a-kickass-filtering-ux-beea1798d64b): How do we make sure they are helpful rather than confusing?
-* [Best Practices for Search](https://www.uxbooth.com/articles/best-practices-for-search/): There are a number of things to think about when designing the UI behind search and results; there are a few general tips that work for multiple different types of apps and websites. 
-* [Best Practices to design advanced search](https://uxplanet.org/how-to-improve-advanced-search-ux-450df698004c):
-* [Building a filter bar — improving the user experience of filtering and searching](https://medium.com/unomaly/building-a-filter-bar-improving-the-user-experience-of-filtering-and-searching-in-unomaly-da57fc6adeec): Improve the user experience of filtering, searching and navigating data sets, making it easier for users to find what they‘re looking for.
-* [Search Box Design](https://www.uxbooth.com/articles/best-practices-for-search/): Search is like a conversation between the user and app or website: the user expresses their information need as a query, and the app or website expresses its response as a set of results. 
-* [Search: Visible and Simple](https://www.nngroup.com/articles/search-visible-and-simple/):  Search is the user's lifeline for mastering complex websites. The best designs offer a simple search box on the homepage and play down advanced search and scoping.
-* [5 things to be mindful of when you design filters](https://uxdesign.cc/5-things-to-be-mindful-of-when-you-design-filters-fc1ca83e157c): Search filter design considerations
-* [Myth: Search will solve a website’s navigation problems](https://uxmyths.com/post/717755413/myth-search-will-solve-a-websites-navigation-problems): People are better at recognizing things than recalling them from memory. It’s much easier and faster to click on a link than to enter a search term.
-* [How To Improve Advanced Search UX](https://uxdworld.com/2018/07/15/how-to-improve-advanced-search-ux/#more-651): Advanced search is a way to find something from a large list of items by specifying a criteria including multiple parameters.
-* [Designing for Faceted Search](https://articles.uie.com/faceted_search/): Faceted search, or guided navigation, has become the de facto standard and has become so ubiquitous that users are not only getting used to it, they are coming to expect it.
-* [Producing Great Search Results: Harder than It Looks, Part 1 ](https://articles.uie.com/search_results/): There is no way, as far as we know, that you can produce a great search results page without spending the time and effort to build it.
+
 
 
 ## Images
