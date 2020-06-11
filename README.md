@@ -124,6 +124,10 @@ Space Administration Graphics Standards Manual Designed in 1975
 * [UX for Photo Upload](https://medium.com/tripaneer-techblog/a-photo-upload-tool-invent-the-ux-patterns-dont-follow-them-fd0f51188f62): A multi-drop zone
 * [Information Architecture: Effective Techniques For Designers](https://blog.tubikstudio.com/information-architecture-effective-techniques-for-designers/): Effective techniques for IA boosting usability
 
+## Focusing on Context
+* [Checkbox vs Toggle Switch: 7 Use-Cases of Forms Design](https://uxdworld.com/2018/08/13/checkbox-vs-toggle-switch-7-use-cases-of-forms-design/): Similar Functions but for Different Contexts.
+## Visibility
+* [Visibility of System Status in UI](https://uxplanet.org/4-ways-to-communicate-the-visibility-of-system-status-in-ui-14ff2351c8e8): 4 Ways To Communicate the Visibility of System Status in UI
 
 ## User Journeys
 * [User Journey Mapping Examples: How UX Pros Do It](https://cxl.com/blog/customer-journey-mapping-examples/): There’s some vagueness and obscurity around how to actually create user journey maps.
@@ -170,16 +174,6 @@ Space Administration Graphics Standards Manual Designed in 1975
 * [Icon Finder](http://iconfinder.com): 1 million free and premium icons.
 * [The Noun Project](https://thenounproject.com/): Icons for Everything.
 * [Favicon Generator](http://www.favicon-generator.org/): Favicon & app icon generator.
-
-## Focusing on Context
-* [Checkbox vs Toggle Switch: 7 Use-Cases of Forms Design](https://uxdworld.com/2018/08/13/checkbox-vs-toggle-switch-7-use-cases-of-forms-design/): Similar Functions but for Different Contexts.
-## Visibility
-* [Visibility of System Status in UI](https://uxplanet.org/4-ways-to-communicate-the-visibility-of-system-status-in-ui-14ff2351c8e8): 4 Ways To Communicate the Visibility of System Status in UI
-
-
-
-
-
 
 ## Images
 * [Pexels](https://pexels.com): Free stock photos
