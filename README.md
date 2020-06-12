@@ -39,6 +39,7 @@ A working list of resources for creative digital technologists to use with Googl
 
 ## Data Visualization
 * [Profiling Flutter Applications Using the Timeline](https://medium.com/flutter/profiling-flutter-applications-using-the-timeline-a1a434964af3): The Timeline allows you to find and address specific performance issues in your application.
+* [Visualizing Performance with Flame Graphs](https://www.youtube.com/watch?v=D53T1Ejig1Q): This talk describes the background for this work, and the challenges encountered when profiling stack traces and resolving symbols for different languages, including for just-in-time compiler runtimes. Instructions will be included generating mixed-mode flame graphs on Linux, and examples from our use at Netflix with Java. Advanced flame graph types will be described, including differential, off-CPU, chain graphs, memory, and TCP events. Finally, future work and unsolved problems in this area will be discussed.
 * [Data Visualization Principles: Lessons from Tufte](https://moz.com/blog/data-visualization-principles-lessons-from-tufte):How Data Visualization impacts from an SEO lens
 * [Flame Graphs and Flame Charts](https://www.georgevreilly.com/blog/2016/08/23/FlameGraphsAndFlameCharts.html): Flame graphs are a clever, in­for­ma­tion-dense way to present computer per­for­mance. 
 * [The Flame Graph](https://queue.acm.org/detail.cfm?id=2927301): This visualization of software execution is a new necessity for performance profiling and debugging.
@@ -74,6 +75,12 @@ A working list of resources for creative digital technologists to use with Googl
 * [Inline Editing and Validation in Tables](https://uxdworld.com/2020/04/22/inline-editing-and-validation-in-tables/): Providing an easy to use experience for a data table is a challenging task when you are dealing with large data.
 * [An Understanding of Perception and Cognition, Part I](https://www.uxmatters.com/mt/archives/2010/07/updating-our-understanding-of-perception-and-cognition-part-i.php): What researchers have discovered about human perception and cognition over the past thirty years. This article focuses on visual perception.
 * [An Understanding of Perception and Cognition, Part II](https://www.uxmatters.com/mt/archives/2010/08/updating-our-understanding-of-perception-and-cognition-part-ii.php): What researchers have discovered about human perception and cognition over the past thirty years. This article focuses on cognition and cognitive / perceptual speed.
+
+## Focusing on Context
+* [Checkbox vs Toggle Switch: 7 Use-Cases of Forms Design](https://uxdworld.com/2018/08/13/checkbox-vs-toggle-switch-7-use-cases-of-forms-design/): Similar Functions but for Different Contexts.
+## Visibility
+* [Visibility of System Status in UI](https://uxplanet.org/4-ways-to-communicate-the-visibility-of-system-status-in-ui-14ff2351c8e8): 4 Ways To Communicate the Visibility of System Status in UI
+
 ## Guidelines
 * [Google Material Design](https://material.google.com/): A close look at the design, components & resources for Google's brand.
 * [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/): Offers everything you need to design beautiful, engaging iOS apps.
@@ -127,10 +134,6 @@ Space Administration Graphics Standards Manual Designed in 1975
 * [UX for Photo Upload](https://medium.com/tripaneer-techblog/a-photo-upload-tool-invent-the-ux-patterns-dont-follow-them-fd0f51188f62): A multi-drop zone
 * [Information Architecture: Effective Techniques For Designers](https://blog.tubikstudio.com/information-architecture-effective-techniques-for-designers/): Effective techniques for IA boosting usability
 
-## Focusing on Context
-* [Checkbox vs Toggle Switch: 7 Use-Cases of Forms Design](https://uxdworld.com/2018/08/13/checkbox-vs-toggle-switch-7-use-cases-of-forms-design/): Similar Functions but for Different Contexts.
-## Visibility
-* [Visibility of System Status in UI](https://uxplanet.org/4-ways-to-communicate-the-visibility-of-system-status-in-ui-14ff2351c8e8): 4 Ways To Communicate the Visibility of System Status in UI
 
 ## User Journeys
 * [User Journey Mapping Examples: How UX Pros Do It](https://cxl.com/blog/customer-journey-mapping-examples/): There’s some vagueness and obscurity around how to actually create user journey maps.
