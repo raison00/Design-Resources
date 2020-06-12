@@ -69,7 +69,10 @@ A working list of resources for creative digital technologists to use with Googl
 * [Converting Search into Navigation](https://www.nngroup.com/articles/search-navigation/?lm=filter-categories-values&pt=article): Redirect users' efforts into more supportive user interfaces when possible for complicated search queries.
 * [Effects of Centered Logos on Navigation Success](https://www.nngroup.com/articles/centered-logos/?lm=filter-categories-values&pt=article): User Study in 2016 shows users having issue clicking on a centered logo for navigation.  Is this really an issue in 2020? Result: make logos left aligned.
 * [Filters vs. Facets: Definitions](https://www.nngroup.com/articles/filters-vs-facets/): Both tools help users narrow large sets of content, but faceted navigation — while more flexible and powerful — is more difficult to create and maintain.
-* [Search vs. Filter Preconceptions](https://community.uxmastery.com/t/search-vs-filter-preconceptions/1715): Archived discussion: Labeling of certain buttons as either “Search” or “Filter” buttons to get only specific rows of information from already-displayed data tables on page. 
+* [Search vs. Filter Preconceptions](https://community.uxmastery.com/t/search-vs-filter-preconceptions/1715): Archived discussion: Labeling of certain buttons as either “Search” or “Filter” buttons to get only specific rows of information from already-displayed data tables on page.
+* [UX / UI Best Practices for Designing Map Apps](https://proceedings.esri.com/library/userconf/proc17/tech-workshops/tw_2416-206.pdf): 
+* [Maps — UX Case Study](https://uxplanet.org/maps-ux-case-study-e7a3f58dd034): 
+* [UX Case Study: Google Maps vs. Waze Mobile Apps](https://usabilitygeek.com/ux-case-study-google-maps-vs-waze-mobile-apps/): Each is boasting a nearly five-star rating in the App Store, Google Maps ranks #1, while Waze holds the #2 spot in navigation.
 
 ## Perception, Notification and Validation
 * [Inline Editing and Validation in Tables](https://uxdworld.com/2020/04/22/inline-editing-and-validation-in-tables/): Providing an easy to use experience for a data table is a challenging task when you are dealing with large data.
@@ -78,6 +81,7 @@ A working list of resources for creative digital technologists to use with Googl
 
 ## Focusing on Context
 * [Checkbox vs Toggle Switch: 7 Use-Cases of Forms Design](https://uxdworld.com/2018/08/13/checkbox-vs-toggle-switch-7-use-cases-of-forms-design/): Similar Functions but for Different Contexts.
+* [Isochrone map design inspiration](https://traveltime.com/blog/isochrone-map-design-inspiration): An isochrone is a shape that connects points relating to the same time.
 ## Visibility
 * [Visibility of System Status in UI](https://uxplanet.org/4-ways-to-communicate-the-visibility-of-system-status-in-ui-14ff2351c8e8): 4 Ways To Communicate the Visibility of System Status in UI
 
@@ -91,13 +95,9 @@ A working list of resources for creative digital technologists to use with Googl
 ## Style Guides and Design Systems
 >A styleguide is a set of standards, principles and rules every developer or designer should follow in order to improve the digital presence of the product.
 * [Documenting future features](https://developers.google.com/style/code-samples): Google developer documentation style guide
-
 * [A11Y Style Guide](https://a11y-style-guide.com/style-guide/): A living style guide or pattern library, generated from KSS documented styles...with an accessibility twist.
-
 * [One-Stop Place for A UI Design Team](https://www.altexsoft.com/blog/uxdesign/creating-a-style-guide-one-stop-place-for-your-ui-design-team/):A style guide is a document gathering all elements of your brand’s visual style.
-
 * [The Complexity of Color](https://www.websitebuilderexpert.com/designing-websites/how-to-choose-color-for-your-website/): Picking and mixing color can be a tricky game.
-
 * [Designing a reliant style guide](https://medium.muz.li/how-to-create-a-style-guide-from-scratch-tips-and-tricks-e00f25b423bf): How To Create a Style Guide From Scratch.
 * [Gather Content](https://gathercontent.com/blog/tone-of-voice-guide): A complete process for developing a content style guide
 * [Style Guide Examples](https://blog.hubspot.com/marketing/examples-brand-style-guides): 21 Brand Style Guide Examples for Visual Inspiration
@@ -110,8 +110,6 @@ A working list of resources for creative digital technologists to use with Googl
 * [Firefox Brand + Design Assets](https://design.firefox.com/): The Firefox UX and Brand teams are currently working on consolidating a number of disparate design assets... 
 * [IBM](https://www.ibm.com/design/language/): IBM's Design Language
 * [Uber](https://brand.uber.com/guide): Uber's Branding
-
-
 * [NASA](https://standardsmanual.com/products/nasa-graphics-standards-manual): National Aeronautics and
 Space Administration Graphics Standards Manual Designed in 1975
 >While NASA is the source of the Manual, the publication and distribution of the NASA Graphics Standards Manual is not sponsored or endorsed by NASA and is an independent project undertaken in an effort to preserve and disseminate an archival record of graphic design from the era.
@@ -154,6 +152,7 @@ Space Administration Graphics Standards Manual Designed in 1975
 
 ## Colors
 * [WebAIM](https://webaim.org/resources/contrastchecker/):WCAG Contrast and Color Requirements
+* [The use of color in maps](https://morphocode.com/the-use-of-color-in-maps/): Color as a visual variable.
 * [Gradients.io](http://www.gradients.io/): Curated gradients.
 * [UI Gradients](http://uigradients.com/): Color gradients.
 * [Brandcolors](https://brandcolors.net/): Brand colors.
