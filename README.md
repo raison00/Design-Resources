@@ -208,6 +208,8 @@ Space Administration Graphics Standards Manual Designed in 1975
 * [One Page Love](http://onepagelove.com):  Design gallery showcasing Single Page websites.
 * [UI Movement](https://uimovement.com):  UI design inspiration, every day.
 * [Sitepoint](https://www.sitepoint.com/design-ux/): A hub for web developers & designers to share their passion for building incredible internet things
+* [Usability for Developers](https://www.seguetech.com/usability-application-development/): What is Usability and Why is it Important to Application Development?
+* [Free Design Tools](https://dev.to/canburaks/free-design-tools-generators-graphic-templates-prototyping-4o70): Design Tools - Generators, Graphic Templates, Prototyping
 
 ## Tutorials
 * [Adobe XD Guide](https://www.xdguru.com/adobe-xd-guide/): A 12,000-words-long comprehensive guide for XD beginners and current users. 
